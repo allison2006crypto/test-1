@@ -1,5 +1,5 @@
-﻿name;type;age
-allison;american;19
-pelinsu;kurdish;22
-mila;polish;20
- df3 = pd.read_csv('https://raw.githubusercontent.com/allison2006crypto/test-1/refs/heads/main/Book1.csv')
+﻿name,type,age
+allison,american,19
+pelinsu,kurdish,22
+mila,polish,20
+
